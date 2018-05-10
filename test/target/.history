@@ -1,0 +1,17 @@
+sbt
+sbt console
+Client
+compile
+exit
+exitg
+exit
+Json.toJson(Person("dan", "slick@gmail.com"))
+Json.toJson("string")
+ls
+help
+startServer
+endServier
+libraryDependenciesexit
+exit
+exut
+exit
