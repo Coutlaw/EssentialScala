@@ -55,11 +55,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ch4.2.sc" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Ch4.2.sc" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/scalaWithCats/Ch4.2.sc">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="972">
               <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ch4.3.sc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/scalaWithCats/Ch4.3.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ch5.0.sc" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/scalaWithCats/Ch5.0.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -87,8 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/scala/Client.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/serverProject/Client.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/gettingStarted/helloWorld.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/essentialScala/HelloWorld.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/essentialScala/ch1.sc" />
@@ -138,6 +154,8 @@
         <option value="$PROJECT_DIR$/src/main/scala/scalaWithCats/Ch4.1.sc" />
         <option value="$PROJECT_DIR$/src/main/scala/gettingStarted/FreeVsTagless.sc" />
         <option value="$PROJECT_DIR$/src/main/scala/scalaWithCats/Ch4.2.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/scalaWithCats/Ch4.3.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/scalaWithCats/Ch5.0.sc" />
       </list>
     </option>
   </component>
@@ -393,12 +411,12 @@
       <workItem from="1525711398505" duration="2041000" />
       <workItem from="1525714466856" duration="3451000" />
       <workItem from="1525783045323" duration="20018000" />
-      <workItem from="1525967324811" duration="5366000" />
+      <workItem from="1525967324811" duration="6659000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="172350000" />
+    <option name="totallyTimeSpent" value="173643000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -495,14 +513,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/gettingStarted/helloWorld.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/essentialScala/Test.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/essentialScala/Ch5.3.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -843,6 +853,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="972">
           <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scalaWithCats/Ch4.3.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/scalaWithCats/Ch5.0.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
